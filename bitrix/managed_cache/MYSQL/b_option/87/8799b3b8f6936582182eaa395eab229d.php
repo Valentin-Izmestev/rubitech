@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001669319367';
+$dateexpire = '001669322967';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:1:"-";a:26:{s:17:"form_comment_blog";s:1:"0";s:18:"form_comment_forum";s:1:"0";s:21:"form_comment_treelike";s:1:"0";s:22:"form_exclusions_fields";s:0:"";s:19:"form_exclusions_url";s:0:"";s:23:"form_exclusions_webform";s:0:"";s:27:"form_forum_private_messages";s:1:"0";s:17:"form_global_check";s:1:"1";s:31:"form_global_check_without_email";s:1:"0";s:13:"form_new_user";s:1:"0";s:10:"form_order";s:1:"0";s:17:"form_send_example";s:1:"0";s:8:"form_sfw";s:1:"1";s:8:"host_url";s:19:"https://rubytech.ru";s:10:"ip_license";s:1:"0";s:7:"is_paid";s:1:"0";s:3:"key";s:12:"8yha8y9uby6y";s:9:"key_is_ok";s:1:"0";s:12:"last_checked";s:10:"1669286854";s:11:"moderate_ip";s:1:"0";s:12:"remote_calls";s:140:"{"close_renew_banner":{"last_call":0},"sfw_update":{"last_call":1609518319},"sfw_send_logs":{"last_call":0},"update_plugin":{"last_call":0}}";s:19:"sfw_send_log_result";s:36:"{"error":"NO_VALID_APIKEY_PROVIDED"}";s:17:"sfw_update_result";s:52:"{"error":"NO_VALID_APIKEY_PROVIDED_OR_SFW_DISABLED"}";s:6:"status";s:1:"1";s:10:"user_token";s:32:"3aDuRydehepesyruGesa7uny7uname2u";s:8:"web_form";s:1:"1";}}}';
+return true;
+?>

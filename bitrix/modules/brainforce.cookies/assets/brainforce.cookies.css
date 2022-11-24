@@ -1,0 +1,49 @@
+    /* Cookie Dialog */
+    #gdpr-cookie-message {
+        position: fixed;
+        background-color: var(--window-bg-color);
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 6px 6px rgba(0,0,0,0.25);
+        font-family: system-ui;
+    }
+    #gdpr-cookie-message p{
+        color: var(--window-text-color);
+        font-size: 14px;
+        line-height: 1.2em;
+		margin-bottom: 10px;
+    }
+    #gdpr-cookie-message p:last-child {
+        margin-bottom: 0;
+        text-align: right;
+    }
+    #gdpr-cookie-message a {
+        color: var(--red);
+        text-decoration: none;
+        font-size: 14px;
+        padding-bottom: 2px;
+        border-bottom: 1px dotted rgba(255,255,255,0.75);
+        transition: all 0.3s ease-in;
+    }
+    #gdpr-cookie-message a:hover {
+        color: white;
+        border-bottom-color: var(--red);
+        transition: all 0.3s ease-in;
+    }
+    #gdpr-cookie-message button {
+        border: none;
+        background: var(--window-button-bg-color);
+        color: var(--window-button-text-color);
+        font-family: sans-serif;
+        font-size: 14px;
+        padding: 7px;
+        border-radius: 3px;
+        margin-left: 15px;
+        cursor: pointer;
+        transition: all 0.3s ease-in;
+    }
+    #gdpr-cookie-message button:hover {
+        background: white;
+        color: #000;
+        transition: all 0.3s ease-in;
+    }

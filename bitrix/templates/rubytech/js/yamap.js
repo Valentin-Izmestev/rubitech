@@ -1,0 +1,2 @@
+"use strict";function init(){var e=new ymaps.Map("YMaps",{center:mapcenter,zoom:16,controls:[],type:"yandex#map"});e.behaviors.disable("scrollZoom"),e.behaviors.disable("drag");var a=new ymaps.Placemark(mapcenter,{balloonContent:maptext,hintContent:maptext},{draggable:!1,hideIconOnBalloonOpen:!1,iconLayout:"default#image",iconImageHref:"/bitrix/templates/rubytech/img/map-logo.png",iconImageSize:[90,70],iconImageOffset:[-45,-70]});e.geoObjects.add(a)}ymaps.ready(init);
+//# sourceMappingURL=yamap.js.map

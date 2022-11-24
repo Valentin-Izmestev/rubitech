@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001669319367';
+$dateexpire = '001669322967';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:8:{s:11:"code_editor";a:1:{s:5:"theme";s:5:"light";}s:21:"file_copy_move_config";s:52:"a:2:{s:7:"advMode";b:1;s:10:"caseOption";s:3:"ask";}";s:18:"file_dialog_config";s:18:"s1;/;list;type;asc";s:11:"last_pathes";s:401:"a:10:{i:0;s:7:"/bitrix";i:1;s:9:"/projects";i:2;s:11:"/directions";i:3;s:53:"/bitrix/components/rubytech/footer/templates/.default";i:4;s:44:"/bitrix/components/rubytech/footer/templates";i:5;s:34:"/bitrix/components/rubytech/footer";i:6;s:54:"/bitrix/components/rubytech/sidebar/templates/.default";i:7;s:26:"/bitrix/templates/rubytech";i:8;s:9:"/products";i:9;s:30:"/bitrix/templates/rubytech/img";}";s:17:"medialib_def_type";s:1:"1";s:17:"medialib_user_set";s:9:"600,450,1";s:30:"taskbar_settings_FORM_TEMPLATE";s:250:"a:3:{s:19:"BXPropertiesTaskbar";a:3:{s:4:"show";b:1;s:3:"set";i:3;s:6:"active";b:1;}s:20:"BXComponents2Taskbar";a:3:{s:4:"show";b:1;s:3:"set";s:1:"2";s:6:"active";b:1;}s:21:"BXFormElementsTaskbar";a:3:{s:4:"show";b:1;s:3:"set";i:3;s:6:"active";b:1;}}";s:33:"taskbarset_settings_FORM_TEMPLATE";s:90:"a:2:{i:2;a:2:{s:4:"show";b:1;s:4:"size";i:200;}i:3;a:2:{s:4:"show";b:1;s:4:"size";i:160;}}";}}';
+return true;
+?>
